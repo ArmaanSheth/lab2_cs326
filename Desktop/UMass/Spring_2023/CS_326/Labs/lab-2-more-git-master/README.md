@@ -1,7 +1,6 @@
-Let's go!
+README
 
 
-- Aditya Maheshwari
-
-
-I have add more cool things to README in the my-branch 
+*********************
+Important information regarding application
+*********************
